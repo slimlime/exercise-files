@@ -8,5 +8,5 @@ Original files from training
 - 2016-12-02 React.js: Getting Started @ Pluralsight
 - 2016-11-24 Up and Running with ECMAScript 6 @ Lynda.com
 - 2015-08-15 Git Essential Training @ Lynda.com
-- 2015-06-16 Amazon Web Services Essential Training
+- 2015-06-16 Amazon Web Services Essential Training @ Lynda.com
 
